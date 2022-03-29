@@ -59,6 +59,8 @@ flutter:
 
   assets:
     - assets/logo_dart.jpeg
+    - assets/backgraund.jpg
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
